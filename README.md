@@ -12,7 +12,7 @@ To make people giggle and stress test wifi analyzer tools. Also rick rolling mig
 The top main part is made up of 44 ESP8266's -WeMos D1 Pro mini's to be exact. Some versions come with antennas so that's what I got.
 The secondary part is 13 NodeMCU ESP8266's which are sturdy units with lots of pinouts.
 
-This project pushes roughly a million unique SSIDs every minute. In theory. Real numbers in the next few weeks.
+**This project pushes roughly a million unique SSIDs every minute.** In theory. Real numbers in the next few weeks.
 It uses 44 ESP8266's and each one is advertising almost 3k SSID's every 6-8 seconds for a total of 130k unique SSID's every 6-8 seconds  with unique MAC addresses per SSID and each SSID get's a numeric suffix.
 
 That's what the main unit on top does. In the top there are 44 ESP8266 each hooked up to one half of a usb to mini power splitter cable into an anker powered usb hub running off of mains. I checked and wiring them all up 12 volt out to 12 volt in of hub wasn't much of a power savings. Weight savings would be worth it though. 

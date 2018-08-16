@@ -1,10 +1,11 @@
 # Beacon8r
 ![](images/BeaconsWillGiveYouUp.jpg)
 
-As seen at DefCon 26 in the Hardware Hacking Village - Saturday at 5pm.
+## As seen at DefCon 26 in the Hardware Hacking Village - Saturday at 5pm.
+### Here are my [DefCon 26 Slides](Wi-Fi%20Beacons%20will%20give%20you%20up%20Defcon26%20slides.pdf)
 
 # Why 
-To make people giggle and stress test wifi analyzer tools. Also rick rolling might be involved.
+To make people giggle and stress test wifi analyzer tools. Also rick rolling might be involved. Also to inspire people to get into playing with ESP8266's.
 
 
 # Info 

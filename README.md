@@ -46,5 +46,5 @@ In general when you are playing with these use judgement and keep them a bit awa
 I tried to note in each file where I borrowed/adapted code from. I'll take the blame for the python code though. 
 
 
-# How much does it way?
+# How much does it weigh?
 Too much.

@@ -22,7 +22,7 @@ The secondary unit on bottom in the flat box broadcasts a rick roll, the trevor 
 FYI you can use emoji's as access point names, just not in the main unit section. 
 
 
-So there is a total of 57 ESP8266's here and when all powered up it draws 46-49 watts. Yes lithium ion batteries are much lighter but I didn't have time/money to go with Li-ion for it all. Plus, the usb battery 
+So there is a total of 57 ESP8266's here and when all powered up it draws 46-49 watts. Yes lithium ion batteries are much lighter but I didn't have time/money to go with Li-ion for it all. Plus, the usb battery packs I got in bulk for this weren't up to the job so instead of ordering more I went lead acid.
 
 # Unit
 ![](images/beacon8r.JPG)
@@ -44,3 +44,7 @@ In general when you are playing with these use judgement and keep them a bit awa
 
 # Attributions
 I tried to note in each file where I borrowed/adapted code from. I'll take the blame for the python code though. 
+
+
+# How much does it way?
+Too much.

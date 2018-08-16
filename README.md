@@ -1,9 +1,10 @@
 # Beacon8r
 ![](images/BeaconsWillGiveYouUp.jpg)
 
+As seen at DefCon 26 in the Hardware Hacking Village - Saturday at 5pm.
 
 # Why 
-To make people giggle and stress test wifi analyzer tools.
+To make people giggle and stress test wifi analyzer tools. Also rick rolling might be involved.
 
 
 # Info 

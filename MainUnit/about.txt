@@ -1,0 +1,2 @@
+So this is the code and files you need to have to program way too many ESP8266's to do beacon broadcasting.
+

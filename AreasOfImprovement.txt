@@ -1,0 +1,10 @@
+1. Put a big set of wheels on harness side of unit instead of 4 swivels - to roll better on soft rug. 
+2. Evalutate cage redesign
+3. Reposition Antenna further away from body
+4. Wire up main unit to a flip toggle /Arm switch
+5. Write and debug code to allow programs on chip to be toggled by inputs.(buttons etc)
+6. Get a lithium ion battery setup instead of AGM.
+7. Vary Tx power (reasons)
+8. Experiment for distance with better antennas using single ESP8266 for fun of it.
+9. Consider mast with powerful antenna for directional rick rolling.
+10. Get some neat stickers made!

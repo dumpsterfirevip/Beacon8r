@@ -40,3 +40,6 @@ Also, don't run something like the main unit in a normal wifi area. The antenna'
 I was able to connect to a different person's access point who was standing right next to me because his access point had a 9db antenna.
 
 In general when you are playing with these use judgement and keep them a bit away from your body. I wouldn't power one up and put it in your pocket but that's just me.
+
+# Attributions
+I tried to note in each file where I borrowed/adapted code from. I'll take the blame for the python code though. 
